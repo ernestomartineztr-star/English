@@ -1,4 +1,4 @@
-name: Deploy English Audio Library
+name: Build and publish audio library
 on:
   push:
     branches: [main]
@@ -9,12 +9,33 @@ permissions:
   id-token: write
 concurrency:
   group: pages
-  cancel-in-progress: true
+  cancel-in-progress: false
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+      - name: Install speech tools
+        run: sudo apt-get update && sudo apt-get install -y espeak-ng lame
+      - name: Generate normal and slow lesson recordings
+        run: |
+          python3 - <<'PY'
+          import json, pathlib, subprocess
+          data=json.load(open('lessons.json',encoding='utf-8'))
+          for level, lessons in data['levels'].items():
+              out=pathlib.Path('audio')/level
+              out.mkdir(parents=True,exist_ok=True)
+              for lesson in lessons:
+                  text=' '.join(x['en'] for x in lesson['dialogue'])
+                  for suffix,speed in [('',150),('-slow',112)]:
+                      wav=out/(lesson['id']+suffix+'.wav')
+                      mp3=out/(lesson['id']+suffix+'.mp3')
+                      subprocess.run(['espeak-ng','-v','en-us','-s',str(speed),'-w',str(wav),text],check=True)
+                      subprocess.run(['lame','--silent','-V','6',str(wav),str(mp3)],check=True)
+                      wav.unlink()
+          PY
       - uses: actions/upload-pages-artifact@v3
         with:
           path: .
