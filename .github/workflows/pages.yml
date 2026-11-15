@@ -4,7 +4,7 @@ on:
     branches: [main]
   workflow_dispatch:
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 concurrency:
@@ -36,6 +36,28 @@ jobs:
                       subprocess.run(['lame','--silent','-V','6',str(wav),str(mp3)],check=True)
                       wav.unlink()
           PY
+      - name: Generate QR codes and save audio to repository
+        run: |
+          python3 -m pip install --user 'qrcode[pil]'
+          python3 - <<'PY'
+          import json, pathlib, qrcode
+          base='https://ernestomartineztr-star.github.io/English/'
+          data=json.load(open('lessons.json',encoding='utf-8'))
+          def save(url,path):
+              path=pathlib.Path(path); path.parent.mkdir(parents=True,exist_ok=True)
+              qrcode.make(url).save(path)
+          save(base,'qr/cover.png')
+          for level, lessons in data['levels'].items():
+              for lesson in lessons:
+                  save(base+'#'+level+'/'+lesson['id'],f"qr/{level}/{lesson['id']}.png")
+          PY
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add audio qr
+          if ! git diff --cached --quiet; then
+            git commit -m "Add generated lesson audio and QR codes [skip ci]"
+            git push
+          fi
       - uses: actions/upload-pages-artifact@v3
         with:
           path: .
