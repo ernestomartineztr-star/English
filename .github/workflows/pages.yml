@@ -18,7 +18,7 @@ jobs:
       - name: Configure Pages
         uses: actions/configure-pages@v5
       - name: Install speech tools
-        run: sudo apt-get update && sudo apt-get install -y espeak-ng lame
+        run: sudo apt-get update && sudo apt-get install -y espeak-ng lame python3-qrcode
       - name: Generate normal and slow lesson recordings
         run: |
           python3 - <<'PY'
@@ -38,7 +38,6 @@ jobs:
           PY
       - name: Generate QR codes and save audio to repository
         run: |
-          python3 -m pip install --user 'qrcode[pil]'
           python3 - <<'PY'
           import json, pathlib, qrcode
           base='https://ernestomartineztr-star.github.io/English/'
