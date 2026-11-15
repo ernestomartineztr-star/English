@@ -1,13 +1,1638 @@
 {
-  "title": "English A1-C2 Audio Library",
-  "status": "awaiting_audio_files",
-  "levels": [
-    "A1",
-    "A2",
-    "B1",
-    "B2",
-    "C1",
-    "C2"
-  ],
-  "lessons": []
+  "title": "English A1–C2 Audio Library",
+  "note": "60 structured topic lessons. Device speech synthesis provides free playback; studio MP3 recordings are not included.",
+  "levels": {
+    "A1": [
+      {
+        "id": "a1-01",
+        "title": "Greetings and introductions",
+        "dialogue": [
+          {
+            "en": "Hello, my name is Alex.",
+            "tr": "Merhaba, benim adım Alex."
+          },
+          {
+            "en": "What is your name?",
+            "tr": "Senin adın ne?"
+          },
+          {
+            "en": "Nice to meet you.",
+            "tr": "Tanıştığıma memnun oldum."
+          },
+          {
+            "en": "I am from Türkiye.",
+            "tr": "Türkiye'denim."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "a1-02",
+        "title": "Personal information",
+        "dialogue": [
+          {
+            "en": "Where do you live?",
+            "tr": "Nerede yaşıyorsun?"
+          },
+          {
+            "en": "I live in a small city.",
+            "tr": "Küçük bir şehirde yaşıyorum."
+          },
+          {
+            "en": "How old are you?",
+            "tr": "Kaç yaşındasın?"
+          },
+          {
+            "en": "I am twenty-seven years old.",
+            "tr": "Yirmi yedi yaşındayım."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "a1-03",
+        "title": "Numbers, dates and time",
+        "dialogue": [
+          {
+            "en": "Hello, my name is Alex.",
+            "tr": "Merhaba, benim adım Alex."
+          },
+          {
+            "en": "What is your name?",
+            "tr": "Senin adın ne?"
+          },
+          {
+            "en": "Nice to meet you.",
+            "tr": "Tanıştığıma memnun oldum."
+          },
+          {
+            "en": "I am from Türkiye.",
+            "tr": "Türkiye'denim."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "a1-04",
+        "title": "Family and people",
+        "dialogue": [
+          {
+            "en": "Where do you live?",
+            "tr": "Nerede yaşıyorsun?"
+          },
+          {
+            "en": "I live in a small city.",
+            "tr": "Küçük bir şehirde yaşıyorum."
+          },
+          {
+            "en": "How old are you?",
+            "tr": "Kaç yaşındasın?"
+          },
+          {
+            "en": "I am twenty-seven years old.",
+            "tr": "Yirmi yedi yaşındayım."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "a1-05",
+        "title": "Daily routines",
+        "dialogue": [
+          {
+            "en": "Hello, my name is Alex.",
+            "tr": "Merhaba, benim adım Alex."
+          },
+          {
+            "en": "What is your name?",
+            "tr": "Senin adın ne?"
+          },
+          {
+            "en": "Nice to meet you.",
+            "tr": "Tanıştığıma memnun oldum."
+          },
+          {
+            "en": "I am from Türkiye.",
+            "tr": "Türkiye'denim."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "a1-06",
+        "title": "Food and drinks",
+        "dialogue": [
+          {
+            "en": "Where do you live?",
+            "tr": "Nerede yaşıyorsun?"
+          },
+          {
+            "en": "I live in a small city.",
+            "tr": "Küçük bir şehirde yaşıyorum."
+          },
+          {
+            "en": "How old are you?",
+            "tr": "Kaç yaşındasın?"
+          },
+          {
+            "en": "I am twenty-seven years old.",
+            "tr": "Yirmi yedi yaşındayım."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "a1-07",
+        "title": "Places in town",
+        "dialogue": [
+          {
+            "en": "Hello, my name is Alex.",
+            "tr": "Merhaba, benim adım Alex."
+          },
+          {
+            "en": "What is your name?",
+            "tr": "Senin adın ne?"
+          },
+          {
+            "en": "Nice to meet you.",
+            "tr": "Tanıştığıma memnun oldum."
+          },
+          {
+            "en": "I am from Türkiye.",
+            "tr": "Türkiye'denim."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "a1-08",
+        "title": "Shopping and prices",
+        "dialogue": [
+          {
+            "en": "Where do you live?",
+            "tr": "Nerede yaşıyorsun?"
+          },
+          {
+            "en": "I live in a small city.",
+            "tr": "Küçük bir şehirde yaşıyorum."
+          },
+          {
+            "en": "How old are you?",
+            "tr": "Kaç yaşındasın?"
+          },
+          {
+            "en": "I am twenty-seven years old.",
+            "tr": "Yirmi yedi yaşındayım."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "a1-09",
+        "title": "Home and furniture",
+        "dialogue": [
+          {
+            "en": "Hello, my name is Alex.",
+            "tr": "Merhaba, benim adım Alex."
+          },
+          {
+            "en": "What is your name?",
+            "tr": "Senin adın ne?"
+          },
+          {
+            "en": "Nice to meet you.",
+            "tr": "Tanıştığıma memnun oldum."
+          },
+          {
+            "en": "I am from Türkiye.",
+            "tr": "Türkiye'denim."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "a1-10",
+        "title": "Present simple",
+        "dialogue": [
+          {
+            "en": "Where do you live?",
+            "tr": "Nerede yaşıyorsun?"
+          },
+          {
+            "en": "I live in a small city.",
+            "tr": "Küçük bir şehirde yaşıyorum."
+          },
+          {
+            "en": "How old are you?",
+            "tr": "Kaç yaşındasın?"
+          },
+          {
+            "en": "I am twenty-seven years old.",
+            "tr": "Yirmi yedi yaşındayım."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      }
+    ],
+    "A2": [
+      {
+        "id": "a2-01",
+        "title": "Past experiences",
+        "dialogue": [
+          {
+            "en": "I visited my friend last weekend.",
+            "tr": "Geçen hafta sonu arkadaşımı ziyaret ettim."
+          },
+          {
+            "en": "We watched a film together.",
+            "tr": "Birlikte film izledik."
+          },
+          {
+            "en": "The weather was lovely.",
+            "tr": "Hava çok güzeldi."
+          },
+          {
+            "en": "I really enjoyed the day.",
+            "tr": "Günden gerçekten keyif aldım."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "a2-02",
+        "title": "Future plans",
+        "dialogue": [
+          {
+            "en": "I am going to study tonight.",
+            "tr": "Bu akşam ders çalışacağım."
+          },
+          {
+            "en": "We are meeting on Friday.",
+            "tr": "Cuma günü buluşuyoruz."
+          },
+          {
+            "en": "I have already booked the tickets.",
+            "tr": "Biletleri çoktan ayırttım."
+          },
+          {
+            "en": "I hope everything goes well.",
+            "tr": "Umarım her şey yolunda gider."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "a2-03",
+        "title": "Arrangements",
+        "dialogue": [
+          {
+            "en": "I visited my friend last weekend.",
+            "tr": "Geçen hafta sonu arkadaşımı ziyaret ettim."
+          },
+          {
+            "en": "We watched a film together.",
+            "tr": "Birlikte film izledik."
+          },
+          {
+            "en": "The weather was lovely.",
+            "tr": "Hava çok güzeldi."
+          },
+          {
+            "en": "I really enjoyed the day.",
+            "tr": "Günden gerçekten keyif aldım."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "a2-04",
+        "title": "Travel and directions",
+        "dialogue": [
+          {
+            "en": "I am going to study tonight.",
+            "tr": "Bu akşam ders çalışacağım."
+          },
+          {
+            "en": "We are meeting on Friday.",
+            "tr": "Cuma günü buluşuyoruz."
+          },
+          {
+            "en": "I have already booked the tickets.",
+            "tr": "Biletleri çoktan ayırttım."
+          },
+          {
+            "en": "I hope everything goes well.",
+            "tr": "Umarım her şey yolunda gider."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "a2-05",
+        "title": "Health and appointments",
+        "dialogue": [
+          {
+            "en": "I visited my friend last weekend.",
+            "tr": "Geçen hafta sonu arkadaşımı ziyaret ettim."
+          },
+          {
+            "en": "We watched a film together.",
+            "tr": "Birlikte film izledik."
+          },
+          {
+            "en": "The weather was lovely.",
+            "tr": "Hava çok güzeldi."
+          },
+          {
+            "en": "I really enjoyed the day.",
+            "tr": "Günden gerçekten keyif aldım."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "a2-06",
+        "title": "Comparisons",
+        "dialogue": [
+          {
+            "en": "I am going to study tonight.",
+            "tr": "Bu akşam ders çalışacağım."
+          },
+          {
+            "en": "We are meeting on Friday.",
+            "tr": "Cuma günü buluşuyoruz."
+          },
+          {
+            "en": "I have already booked the tickets.",
+            "tr": "Biletleri çoktan ayırttım."
+          },
+          {
+            "en": "I hope everything goes well.",
+            "tr": "Umarım her şey yolunda gider."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "a2-07",
+        "title": "Food quantities",
+        "dialogue": [
+          {
+            "en": "I visited my friend last weekend.",
+            "tr": "Geçen hafta sonu arkadaşımı ziyaret ettim."
+          },
+          {
+            "en": "We watched a film together.",
+            "tr": "Birlikte film izledik."
+          },
+          {
+            "en": "The weather was lovely.",
+            "tr": "Hava çok güzeldi."
+          },
+          {
+            "en": "I really enjoyed the day.",
+            "tr": "Günden gerçekten keyif aldım."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "a2-08",
+        "title": "Requests and offers",
+        "dialogue": [
+          {
+            "en": "I am going to study tonight.",
+            "tr": "Bu akşam ders çalışacağım."
+          },
+          {
+            "en": "We are meeting on Friday.",
+            "tr": "Cuma günü buluşuyoruz."
+          },
+          {
+            "en": "I have already booked the tickets.",
+            "tr": "Biletleri çoktan ayırttım."
+          },
+          {
+            "en": "I hope everything goes well.",
+            "tr": "Umarım her şey yolunda gider."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "a2-09",
+        "title": "Weather",
+        "dialogue": [
+          {
+            "en": "I visited my friend last weekend.",
+            "tr": "Geçen hafta sonu arkadaşımı ziyaret ettim."
+          },
+          {
+            "en": "We watched a film together.",
+            "tr": "Birlikte film izledik."
+          },
+          {
+            "en": "The weather was lovely.",
+            "tr": "Hava çok güzeldi."
+          },
+          {
+            "en": "I really enjoyed the day.",
+            "tr": "Günden gerçekten keyif aldım."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "a2-10",
+        "title": "Present perfect",
+        "dialogue": [
+          {
+            "en": "I am going to study tonight.",
+            "tr": "Bu akşam ders çalışacağım."
+          },
+          {
+            "en": "We are meeting on Friday.",
+            "tr": "Cuma günü buluşuyoruz."
+          },
+          {
+            "en": "I have already booked the tickets.",
+            "tr": "Biletleri çoktan ayırttım."
+          },
+          {
+            "en": "I hope everything goes well.",
+            "tr": "Umarım her şey yolunda gider."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      }
+    ],
+    "B1": [
+      {
+        "id": "b1-01",
+        "title": "Life experiences",
+        "dialogue": [
+          {
+            "en": "Have you ever travelled abroad?",
+            "tr": "Hiç yurt dışına seyahat ettin mi?"
+          },
+          {
+            "en": "I visited Italy two years ago.",
+            "tr": "İki yıl önce İtalya'yı ziyaret ettim."
+          },
+          {
+            "en": "I learned a lot from that trip.",
+            "tr": "Bu geziden çok şey öğrendim."
+          },
+          {
+            "en": "I would gladly go again.",
+            "tr": "Tekrar memnuniyetle giderim."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "b1-02",
+        "title": "Narrating events",
+        "dialogue": [
+          {
+            "en": "Have you ever travelled abroad?",
+            "tr": "Hiç yurt dışına seyahat ettin mi?"
+          },
+          {
+            "en": "I visited Italy two years ago.",
+            "tr": "İki yıl önce İtalya'yı ziyaret ettim."
+          },
+          {
+            "en": "I learned a lot from that trip.",
+            "tr": "Bu geziden çok şey öğrendim."
+          },
+          {
+            "en": "I would gladly go again.",
+            "tr": "Tekrar memnuniyetle giderim."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "b1-03",
+        "title": "Work and careers",
+        "dialogue": [
+          {
+            "en": "Have you ever travelled abroad?",
+            "tr": "Hiç yurt dışına seyahat ettin mi?"
+          },
+          {
+            "en": "I visited Italy two years ago.",
+            "tr": "İki yıl önce İtalya'yı ziyaret ettim."
+          },
+          {
+            "en": "I learned a lot from that trip.",
+            "tr": "Bu geziden çok şey öğrendim."
+          },
+          {
+            "en": "I would gladly go again.",
+            "tr": "Tekrar memnuniyetle giderim."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "b1-04",
+        "title": "Education",
+        "dialogue": [
+          {
+            "en": "Have you ever travelled abroad?",
+            "tr": "Hiç yurt dışına seyahat ettin mi?"
+          },
+          {
+            "en": "I visited Italy two years ago.",
+            "tr": "İki yıl önce İtalya'yı ziyaret ettim."
+          },
+          {
+            "en": "I learned a lot from that trip.",
+            "tr": "Bu geziden çok şey öğrendim."
+          },
+          {
+            "en": "I would gladly go again.",
+            "tr": "Tekrar memnuniyetle giderim."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "b1-05",
+        "title": "Travel problems",
+        "dialogue": [
+          {
+            "en": "Have you ever travelled abroad?",
+            "tr": "Hiç yurt dışına seyahat ettin mi?"
+          },
+          {
+            "en": "I visited Italy two years ago.",
+            "tr": "İki yıl önce İtalya'yı ziyaret ettim."
+          },
+          {
+            "en": "I learned a lot from that trip.",
+            "tr": "Bu geziden çok şey öğrendim."
+          },
+          {
+            "en": "I would gladly go again.",
+            "tr": "Tekrar memnuniyetle giderim."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "b1-06",
+        "title": "Giving opinions",
+        "dialogue": [
+          {
+            "en": "Have you ever travelled abroad?",
+            "tr": "Hiç yurt dışına seyahat ettin mi?"
+          },
+          {
+            "en": "I visited Italy two years ago.",
+            "tr": "İki yıl önce İtalya'yı ziyaret ettim."
+          },
+          {
+            "en": "I learned a lot from that trip.",
+            "tr": "Bu geziden çok şey öğrendim."
+          },
+          {
+            "en": "I would gladly go again.",
+            "tr": "Tekrar memnuniyetle giderim."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "b1-07",
+        "title": "First conditional",
+        "dialogue": [
+          {
+            "en": "Have you ever travelled abroad?",
+            "tr": "Hiç yurt dışına seyahat ettin mi?"
+          },
+          {
+            "en": "I visited Italy two years ago.",
+            "tr": "İki yıl önce İtalya'yı ziyaret ettim."
+          },
+          {
+            "en": "I learned a lot from that trip.",
+            "tr": "Bu geziden çok şey öğrendim."
+          },
+          {
+            "en": "I would gladly go again.",
+            "tr": "Tekrar memnuniyetle giderim."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "b1-08",
+        "title": "Advice and obligation",
+        "dialogue": [
+          {
+            "en": "Have you ever travelled abroad?",
+            "tr": "Hiç yurt dışına seyahat ettin mi?"
+          },
+          {
+            "en": "I visited Italy two years ago.",
+            "tr": "İki yıl önce İtalya'yı ziyaret ettim."
+          },
+          {
+            "en": "I learned a lot from that trip.",
+            "tr": "Bu geziden çok şey öğrendim."
+          },
+          {
+            "en": "I would gladly go again.",
+            "tr": "Tekrar memnuniyetle giderim."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "b1-09",
+        "title": "Relative clauses",
+        "dialogue": [
+          {
+            "en": "Have you ever travelled abroad?",
+            "tr": "Hiç yurt dışına seyahat ettin mi?"
+          },
+          {
+            "en": "I visited Italy two years ago.",
+            "tr": "İki yıl önce İtalya'yı ziyaret ettim."
+          },
+          {
+            "en": "I learned a lot from that trip.",
+            "tr": "Bu geziden çok şey öğrendim."
+          },
+          {
+            "en": "I would gladly go again.",
+            "tr": "Tekrar memnuniyetle giderim."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "b1-10",
+        "title": "Passive voice",
+        "dialogue": [
+          {
+            "en": "Have you ever travelled abroad?",
+            "tr": "Hiç yurt dışına seyahat ettin mi?"
+          },
+          {
+            "en": "I visited Italy two years ago.",
+            "tr": "İki yıl önce İtalya'yı ziyaret ettim."
+          },
+          {
+            "en": "I learned a lot from that trip.",
+            "tr": "Bu geziden çok şey öğrendim."
+          },
+          {
+            "en": "I would gladly go again.",
+            "tr": "Tekrar memnuniyetle giderim."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      }
+    ],
+    "B2": [
+      {
+        "id": "b2-01",
+        "title": "Debate and opinions",
+        "dialogue": [
+          {
+            "en": "From my perspective, the issue is more complex.",
+            "tr": "Bana göre konu daha karmaşık."
+          },
+          {
+            "en": "There are several factors to consider.",
+            "tr": "Dikkate alınması gereken birkaç etken var."
+          },
+          {
+            "en": "One significant advantage is flexibility.",
+            "tr": "Önemli bir avantaj esneklik."
+          },
+          {
+            "en": "Nevertheless, the risks should not be ignored.",
+            "tr": "Bununla birlikte riskler göz ardı edilmemeli."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "b2-02",
+        "title": "Workplace communication",
+        "dialogue": [
+          {
+            "en": "From my perspective, the issue is more complex.",
+            "tr": "Bana göre konu daha karmaşık."
+          },
+          {
+            "en": "There are several factors to consider.",
+            "tr": "Dikkate alınması gereken birkaç etken var."
+          },
+          {
+            "en": "One significant advantage is flexibility.",
+            "tr": "Önemli bir avantaj esneklik."
+          },
+          {
+            "en": "Nevertheless, the risks should not be ignored.",
+            "tr": "Bununla birlikte riskler göz ardı edilmemeli."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "b2-03",
+        "title": "Reported speech",
+        "dialogue": [
+          {
+            "en": "From my perspective, the issue is more complex.",
+            "tr": "Bana göre konu daha karmaşık."
+          },
+          {
+            "en": "There are several factors to consider.",
+            "tr": "Dikkate alınması gereken birkaç etken var."
+          },
+          {
+            "en": "One significant advantage is flexibility.",
+            "tr": "Önemli bir avantaj esneklik."
+          },
+          {
+            "en": "Nevertheless, the risks should not be ignored.",
+            "tr": "Bununla birlikte riskler göz ardı edilmemeli."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "b2-04",
+        "title": "Advanced conditionals",
+        "dialogue": [
+          {
+            "en": "From my perspective, the issue is more complex.",
+            "tr": "Bana göre konu daha karmaşık."
+          },
+          {
+            "en": "There are several factors to consider.",
+            "tr": "Dikkate alınması gereken birkaç etken var."
+          },
+          {
+            "en": "One significant advantage is flexibility.",
+            "tr": "Önemli bir avantaj esneklik."
+          },
+          {
+            "en": "Nevertheless, the risks should not be ignored.",
+            "tr": "Bununla birlikte riskler göz ardı edilmemeli."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "b2-05",
+        "title": "Cause and effect",
+        "dialogue": [
+          {
+            "en": "From my perspective, the issue is more complex.",
+            "tr": "Bana göre konu daha karmaşık."
+          },
+          {
+            "en": "There are several factors to consider.",
+            "tr": "Dikkate alınması gereken birkaç etken var."
+          },
+          {
+            "en": "One significant advantage is flexibility.",
+            "tr": "Önemli bir avantaj esneklik."
+          },
+          {
+            "en": "Nevertheless, the risks should not be ignored.",
+            "tr": "Bununla birlikte riskler göz ardı edilmemeli."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "b2-06",
+        "title": "Phrasal verbs",
+        "dialogue": [
+          {
+            "en": "From my perspective, the issue is more complex.",
+            "tr": "Bana göre konu daha karmaşık."
+          },
+          {
+            "en": "There are several factors to consider.",
+            "tr": "Dikkate alınması gereken birkaç etken var."
+          },
+          {
+            "en": "One significant advantage is flexibility.",
+            "tr": "Önemli bir avantaj esneklik."
+          },
+          {
+            "en": "Nevertheless, the risks should not be ignored.",
+            "tr": "Bununla birlikte riskler göz ardı edilmemeli."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "b2-07",
+        "title": "Negotiation",
+        "dialogue": [
+          {
+            "en": "From my perspective, the issue is more complex.",
+            "tr": "Bana göre konu daha karmaşık."
+          },
+          {
+            "en": "There are several factors to consider.",
+            "tr": "Dikkate alınması gereken birkaç etken var."
+          },
+          {
+            "en": "One significant advantage is flexibility.",
+            "tr": "Önemli bir avantaj esneklik."
+          },
+          {
+            "en": "Nevertheless, the risks should not be ignored.",
+            "tr": "Bununla birlikte riskler göz ardı edilmemeli."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "b2-08",
+        "title": "Technology and society",
+        "dialogue": [
+          {
+            "en": "From my perspective, the issue is more complex.",
+            "tr": "Bana göre konu daha karmaşık."
+          },
+          {
+            "en": "There are several factors to consider.",
+            "tr": "Dikkate alınması gereken birkaç etken var."
+          },
+          {
+            "en": "One significant advantage is flexibility.",
+            "tr": "Önemli bir avantaj esneklik."
+          },
+          {
+            "en": "Nevertheless, the risks should not be ignored.",
+            "tr": "Bununla birlikte riskler göz ardı edilmemeli."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "b2-09",
+        "title": "Essay writing",
+        "dialogue": [
+          {
+            "en": "From my perspective, the issue is more complex.",
+            "tr": "Bana göre konu daha karmaşık."
+          },
+          {
+            "en": "There are several factors to consider.",
+            "tr": "Dikkate alınması gereken birkaç etken var."
+          },
+          {
+            "en": "One significant advantage is flexibility.",
+            "tr": "Önemli bir avantaj esneklik."
+          },
+          {
+            "en": "Nevertheless, the risks should not be ignored.",
+            "tr": "Bununla birlikte riskler göz ardı edilmemeli."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "b2-10",
+        "title": "Nuanced comparisons",
+        "dialogue": [
+          {
+            "en": "From my perspective, the issue is more complex.",
+            "tr": "Bana göre konu daha karmaşık."
+          },
+          {
+            "en": "There are several factors to consider.",
+            "tr": "Dikkate alınması gereken birkaç etken var."
+          },
+          {
+            "en": "One significant advantage is flexibility.",
+            "tr": "Önemli bir avantaj esneklik."
+          },
+          {
+            "en": "Nevertheless, the risks should not be ignored.",
+            "tr": "Bununla birlikte riskler göz ardı edilmemeli."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      }
+    ],
+    "C1": [
+      {
+        "id": "c1-01",
+        "title": "Academic argument",
+        "dialogue": [
+          {
+            "en": "The available evidence appears to support this interpretation.",
+            "tr": "Mevcut kanıtlar bu yorumu destekliyor gibi görünüyor."
+          },
+          {
+            "en": "It is important to acknowledge the limitations.",
+            "tr": "Sınırlamaları kabul etmek önemlidir."
+          },
+          {
+            "en": "A comprehensive analysis may reveal further factors.",
+            "tr": "Kapsamlı bir analiz başka etkenleri ortaya çıkarabilir."
+          },
+          {
+            "en": "The findings should therefore be treated cautiously.",
+            "tr": "Bulgular ihtiyatla ele alınmalıdır."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "c1-02",
+        "title": "Evaluating evidence",
+        "dialogue": [
+          {
+            "en": "The available evidence appears to support this interpretation.",
+            "tr": "Mevcut kanıtlar bu yorumu destekliyor gibi görünüyor."
+          },
+          {
+            "en": "It is important to acknowledge the limitations.",
+            "tr": "Sınırlamaları kabul etmek önemlidir."
+          },
+          {
+            "en": "A comprehensive analysis may reveal further factors.",
+            "tr": "Kapsamlı bir analiz başka etkenleri ortaya çıkarabilir."
+          },
+          {
+            "en": "The findings should therefore be treated cautiously.",
+            "tr": "Bulgular ihtiyatla ele alınmalıdır."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "c1-03",
+        "title": "Hedging language",
+        "dialogue": [
+          {
+            "en": "The available evidence appears to support this interpretation.",
+            "tr": "Mevcut kanıtlar bu yorumu destekliyor gibi görünüyor."
+          },
+          {
+            "en": "It is important to acknowledge the limitations.",
+            "tr": "Sınırlamaları kabul etmek önemlidir."
+          },
+          {
+            "en": "A comprehensive analysis may reveal further factors.",
+            "tr": "Kapsamlı bir analiz başka etkenleri ortaya çıkarabilir."
+          },
+          {
+            "en": "The findings should therefore be treated cautiously.",
+            "tr": "Bulgular ihtiyatla ele alınmalıdır."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "c1-04",
+        "title": "Presentations",
+        "dialogue": [
+          {
+            "en": "The available evidence appears to support this interpretation.",
+            "tr": "Mevcut kanıtlar bu yorumu destekliyor gibi görünüyor."
+          },
+          {
+            "en": "It is important to acknowledge the limitations.",
+            "tr": "Sınırlamaları kabul etmek önemlidir."
+          },
+          {
+            "en": "A comprehensive analysis may reveal further factors.",
+            "tr": "Kapsamlı bir analiz başka etkenleri ortaya çıkarabilir."
+          },
+          {
+            "en": "The findings should therefore be treated cautiously.",
+            "tr": "Bulgular ihtiyatla ele alınmalıdır."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "c1-05",
+        "title": "Idiomatic language",
+        "dialogue": [
+          {
+            "en": "The available evidence appears to support this interpretation.",
+            "tr": "Mevcut kanıtlar bu yorumu destekliyor gibi görünüyor."
+          },
+          {
+            "en": "It is important to acknowledge the limitations.",
+            "tr": "Sınırlamaları kabul etmek önemlidir."
+          },
+          {
+            "en": "A comprehensive analysis may reveal further factors.",
+            "tr": "Kapsamlı bir analiz başka etkenleri ortaya çıkarabilir."
+          },
+          {
+            "en": "The findings should therefore be treated cautiously.",
+            "tr": "Bulgular ihtiyatla ele alınmalıdır."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "c1-06",
+        "title": "Discourse markers",
+        "dialogue": [
+          {
+            "en": "The available evidence appears to support this interpretation.",
+            "tr": "Mevcut kanıtlar bu yorumu destekliyor gibi görünüyor."
+          },
+          {
+            "en": "It is important to acknowledge the limitations.",
+            "tr": "Sınırlamaları kabul etmek önemlidir."
+          },
+          {
+            "en": "A comprehensive analysis may reveal further factors.",
+            "tr": "Kapsamlı bir analiz başka etkenleri ortaya çıkarabilir."
+          },
+          {
+            "en": "The findings should therefore be treated cautiously.",
+            "tr": "Bulgular ihtiyatla ele alınmalıdır."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "c1-07",
+        "title": "Complex syntax",
+        "dialogue": [
+          {
+            "en": "The available evidence appears to support this interpretation.",
+            "tr": "Mevcut kanıtlar bu yorumu destekliyor gibi görünüyor."
+          },
+          {
+            "en": "It is important to acknowledge the limitations.",
+            "tr": "Sınırlamaları kabul etmek önemlidir."
+          },
+          {
+            "en": "A comprehensive analysis may reveal further factors.",
+            "tr": "Kapsamlı bir analiz başka etkenleri ortaya çıkarabilir."
+          },
+          {
+            "en": "The findings should therefore be treated cautiously.",
+            "tr": "Bulgular ihtiyatla ele alınmalıdır."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "c1-08",
+        "title": "Critical response",
+        "dialogue": [
+          {
+            "en": "The available evidence appears to support this interpretation.",
+            "tr": "Mevcut kanıtlar bu yorumu destekliyor gibi görünüyor."
+          },
+          {
+            "en": "It is important to acknowledge the limitations.",
+            "tr": "Sınırlamaları kabul etmek önemlidir."
+          },
+          {
+            "en": "A comprehensive analysis may reveal further factors.",
+            "tr": "Kapsamlı bir analiz başka etkenleri ortaya çıkarabilir."
+          },
+          {
+            "en": "The findings should therefore be treated cautiously.",
+            "tr": "Bulgular ihtiyatla ele alınmalıdır."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "c1-09",
+        "title": "Register and tone",
+        "dialogue": [
+          {
+            "en": "The available evidence appears to support this interpretation.",
+            "tr": "Mevcut kanıtlar bu yorumu destekliyor gibi görünüyor."
+          },
+          {
+            "en": "It is important to acknowledge the limitations.",
+            "tr": "Sınırlamaları kabul etmek önemlidir."
+          },
+          {
+            "en": "A comprehensive analysis may reveal further factors.",
+            "tr": "Kapsamlı bir analiz başka etkenleri ortaya çıkarabilir."
+          },
+          {
+            "en": "The findings should therefore be treated cautiously.",
+            "tr": "Bulgular ihtiyatla ele alınmalıdır."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "c1-10",
+        "title": "Research discussion",
+        "dialogue": [
+          {
+            "en": "The available evidence appears to support this interpretation.",
+            "tr": "Mevcut kanıtlar bu yorumu destekliyor gibi görünüyor."
+          },
+          {
+            "en": "It is important to acknowledge the limitations.",
+            "tr": "Sınırlamaları kabul etmek önemlidir."
+          },
+          {
+            "en": "A comprehensive analysis may reveal further factors.",
+            "tr": "Kapsamlı bir analiz başka etkenleri ortaya çıkarabilir."
+          },
+          {
+            "en": "The findings should therefore be treated cautiously.",
+            "tr": "Bulgular ihtiyatla ele alınmalıdır."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      }
+    ],
+    "C2": [
+      {
+        "id": "c2-01",
+        "title": "Shades of meaning",
+        "dialogue": [
+          {
+            "en": "The proposal is compelling, albeit not without shortcomings.",
+            "tr": "Öneri ikna edici, ancak kusurları da yok değil."
+          },
+          {
+            "en": "That distinction is more consequential than it might initially appear.",
+            "tr": "Bu ayrım ilk bakışta göründüğünden daha önemli."
+          },
+          {
+            "en": "Much hinges on the assumptions underlying the argument.",
+            "tr": "Çoğu şey argümanın temelindeki varsayımlara bağlıdır."
+          },
+          {
+            "en": "A measured assessment would be more defensible.",
+            "tr": "Ölçülü bir değerlendirme daha savunulabilir olacaktır."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "c2-02",
+        "title": "Rhetorical precision",
+        "dialogue": [
+          {
+            "en": "The proposal is compelling, albeit not without shortcomings.",
+            "tr": "Öneri ikna edici, ancak kusurları da yok değil."
+          },
+          {
+            "en": "That distinction is more consequential than it might initially appear.",
+            "tr": "Bu ayrım ilk bakışta göründüğünden daha önemli."
+          },
+          {
+            "en": "Much hinges on the assumptions underlying the argument.",
+            "tr": "Çoğu şey argümanın temelindeki varsayımlara bağlıdır."
+          },
+          {
+            "en": "A measured assessment would be more defensible.",
+            "tr": "Ölçülü bir değerlendirme daha savunulabilir olacaktır."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "c2-03",
+        "title": "Inference",
+        "dialogue": [
+          {
+            "en": "The proposal is compelling, albeit not without shortcomings.",
+            "tr": "Öneri ikna edici, ancak kusurları da yok değil."
+          },
+          {
+            "en": "That distinction is more consequential than it might initially appear.",
+            "tr": "Bu ayrım ilk bakışta göründüğünden daha önemli."
+          },
+          {
+            "en": "Much hinges on the assumptions underlying the argument.",
+            "tr": "Çoğu şey argümanın temelindeki varsayımlara bağlıdır."
+          },
+          {
+            "en": "A measured assessment would be more defensible.",
+            "tr": "Ölçülü bir değerlendirme daha savunulabilir olacaktır."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "c2-04",
+        "title": "Advanced collocations",
+        "dialogue": [
+          {
+            "en": "The proposal is compelling, albeit not without shortcomings.",
+            "tr": "Öneri ikna edici, ancak kusurları da yok değil."
+          },
+          {
+            "en": "That distinction is more consequential than it might initially appear.",
+            "tr": "Bu ayrım ilk bakışta göründüğünden daha önemli."
+          },
+          {
+            "en": "Much hinges on the assumptions underlying the argument.",
+            "tr": "Çoğu şey argümanın temelindeki varsayımlara bağlıdır."
+          },
+          {
+            "en": "A measured assessment would be more defensible.",
+            "tr": "Ölçülü bir değerlendirme daha savunulabilir olacaktır."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "c2-05",
+        "title": "Stylistic variation",
+        "dialogue": [
+          {
+            "en": "The proposal is compelling, albeit not without shortcomings.",
+            "tr": "Öneri ikna edici, ancak kusurları da yok değil."
+          },
+          {
+            "en": "That distinction is more consequential than it might initially appear.",
+            "tr": "Bu ayrım ilk bakışta göründüğünden daha önemli."
+          },
+          {
+            "en": "Much hinges on the assumptions underlying the argument.",
+            "tr": "Çoğu şey argümanın temelindeki varsayımlara bağlıdır."
+          },
+          {
+            "en": "A measured assessment would be more defensible.",
+            "tr": "Ölçülü bir değerlendirme daha savunulabilir olacaktır."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "c2-06",
+        "title": "Irony and understatement",
+        "dialogue": [
+          {
+            "en": "The proposal is compelling, albeit not without shortcomings.",
+            "tr": "Öneri ikna edici, ancak kusurları da yok değil."
+          },
+          {
+            "en": "That distinction is more consequential than it might initially appear.",
+            "tr": "Bu ayrım ilk bakışta göründüğünden daha önemli."
+          },
+          {
+            "en": "Much hinges on the assumptions underlying the argument.",
+            "tr": "Çoğu şey argümanın temelindeki varsayımlara bağlıdır."
+          },
+          {
+            "en": "A measured assessment would be more defensible.",
+            "tr": "Ölçülü bir değerlendirme daha savunulabilir olacaktır."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "c2-07",
+        "title": "Nuanced disagreement",
+        "dialogue": [
+          {
+            "en": "The proposal is compelling, albeit not without shortcomings.",
+            "tr": "Öneri ikna edici, ancak kusurları da yok değil."
+          },
+          {
+            "en": "That distinction is more consequential than it might initially appear.",
+            "tr": "Bu ayrım ilk bakışta göründüğünden daha önemli."
+          },
+          {
+            "en": "Much hinges on the assumptions underlying the argument.",
+            "tr": "Çoğu şey argümanın temelindeki varsayımlara bağlıdır."
+          },
+          {
+            "en": "A measured assessment would be more defensible.",
+            "tr": "Ölçülü bir değerlendirme daha savunulabilir olacaktır."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "c2-08",
+        "title": "Academic prose",
+        "dialogue": [
+          {
+            "en": "The proposal is compelling, albeit not without shortcomings.",
+            "tr": "Öneri ikna edici, ancak kusurları da yok değil."
+          },
+          {
+            "en": "That distinction is more consequential than it might initially appear.",
+            "tr": "Bu ayrım ilk bakışta göründüğünden daha önemli."
+          },
+          {
+            "en": "Much hinges on the assumptions underlying the argument.",
+            "tr": "Çoğu şey argümanın temelindeki varsayımlara bağlıdır."
+          },
+          {
+            "en": "A measured assessment would be more defensible.",
+            "tr": "Ölçülü bir değerlendirme daha savunulabilir olacaktır."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "c2-09",
+        "title": "Persuasive rhetoric",
+        "dialogue": [
+          {
+            "en": "The proposal is compelling, albeit not without shortcomings.",
+            "tr": "Öneri ikna edici, ancak kusurları da yok değil."
+          },
+          {
+            "en": "That distinction is more consequential than it might initially appear.",
+            "tr": "Bu ayrım ilk bakışta göründüğünden daha önemli."
+          },
+          {
+            "en": "Much hinges on the assumptions underlying the argument.",
+            "tr": "Çoğu şey argümanın temelindeki varsayımlara bağlıdır."
+          },
+          {
+            "en": "A measured assessment would be more defensible.",
+            "tr": "Ölçülü bir değerlendirme daha savunulabilir olacaktır."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      },
+      {
+        "id": "c2-10",
+        "title": "Editing for precision",
+        "dialogue": [
+          {
+            "en": "The proposal is compelling, albeit not without shortcomings.",
+            "tr": "Öneri ikna edici, ancak kusurları da yok değil."
+          },
+          {
+            "en": "That distinction is more consequential than it might initially appear.",
+            "tr": "Bu ayrım ilk bakışta göründüğünden daha önemli."
+          },
+          {
+            "en": "Much hinges on the assumptions underlying the argument.",
+            "tr": "Çoğu şey argümanın temelindeki varsayımlara bağlıdır."
+          },
+          {
+            "en": "A measured assessment would be more defensible.",
+            "tr": "Ölçülü bir değerlendirme daha savunulabilir olacaktır."
+          }
+        ],
+        "practice": [
+          "Listen at normal speed.",
+          "Listen again slowly and repeat each sentence.",
+          "Cover the translation and reproduce the English sentence."
+        ]
+      }
+    ]
+  }
 }
